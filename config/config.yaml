@@ -1,0 +1,16 @@
+threads: 2
+hifiasm_threads: 1
+
+hifi: "data/hifi/SRR32416951.fastq.gz"
+hic_r1: "data/hic/SRR32416950_1.fastq.gz"
+hic_r2: "data/hic/SRR32416950_2.fastq.gz"
+
+kmc:
+  k: 27
+  ci: 1
+  cs: 1000000
+  cx: 1000000
+
+genomescope2:
+  k: 27
+  p: 2

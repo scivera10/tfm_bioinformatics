@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - genometools-genometools=1.6.1
+  - ltr_finder=1.07
+  - ltr_finder_parallel=1.4
+  - ltr_retriever=2.9.0
